@@ -1,5 +1,3 @@
-更新：项目更改为github page 不再设dist子目录
-
 此项目为 Base64 项目打包后生成的 Dist 包
 
 配合 WebHooks 钩子 实现提交后自动同步至服务器的功能
